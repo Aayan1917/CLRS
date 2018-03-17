@@ -1,3 +1,4 @@
+//Code for finding the queue if by every person, the information about his left and right person is given.
 #include <iostream>
 #include <stdio.h>
 #include <vector>
